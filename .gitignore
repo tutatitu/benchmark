@@ -1,0 +1,8 @@
+# pycharm files
+.venv
+.idea
+
+# data files
+*.csv
+*.xlsx
+*.db
